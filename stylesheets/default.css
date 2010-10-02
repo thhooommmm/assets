@@ -1,0 +1,46 @@
+li {list-style:none;}
+#header {height:71px;display:block;background-color:#c125e0;}
+#header_gradient {background:url('http://ce.orghub.com/images/top_header.png') repeat;margin:0px;height:71px;}
+#nav {height:34px;background:url('http://ce.orghub.com/images/nav_bar.jpg');display:block;position:relative;}
+#nav ul li{float:left;color:white;}
+#nav img {float:right;}
+#nav ul {padding:1px 0px;margin:0px;display:block;height:22px;position:absolute;top:6px;left:-22px;}
+#nav ul ul {top:3px;}
+#mid_divider {height:21px;background:url('http://ce.orghub.com/images/mid_divider.jpg');}
+#feat_gradient{height:244px;background:url('http://ce.orghub.com/images/main_bkr.png');}
+#feat{height:244px;background-color:#c125e0;}
+#body{background:url('http://ce.orghub.com/images/content_gradient.jpg') repeat-x top center;padding:35px 0px 0px 0px;}
+#body ul {padding-left:19px;}
+.feat2 {background:url('http://ce.orghub.com/images/feet2.png') top center;height:246px;margin-top:-3px;position:relative;}
+.feat3 {background:url('http://ce.orghub.com/images/feet3.png') top center;height:246px;margin-top:-3px;position:relative;}
+.feat4 {background:url('http://ce.orghub.com/images/feet4.png') top center;height:246px;margin-top:-3px;position:relative;}
+#body ul ul li {margin-bottom:8px;}
+.fright {float:right;}
+.what h1 {font:italic bold 29px Arial;margin-bottom:10px;color:rgb(143,12,233);}
+.what h2 {font:italic bold 23px Arial;margin-bottom:10px;color:rgb(3,12,1);}
+.what h3 {font:italic bold 19px Arial;margin-bottom:10px;color:rgb(3,12,1);}
+.what h4 {font:italic bold 19px Arial;margin-bottom:10px;margin-bottom:46px;color:rgb(1,1,1);letter-spacing:-1px;text-align:right;color:rgb(110,110,110);}
+#footer {height:99px;display:block;background-color:#c125e0;margin-top:3em;}
+#footer_gradient {height:79px;background:url('http://ce.orghub.com/images/footer.png');padding:20px 0px 0px;text-align:center;color:white;}
+.color{height:20px;width:20px;display:block;float:left;border:1px solid #fff;margin:10px 1px;cursor:pointer;}
+#orghub {background:black;color:white;margin:0px;}
+#orghub h1 {margin:0px;font-size:7px;padding:2px 15px;font-weight:normal;}
+button {position:absolute;bottom:30px;left:10px;}
+#nav li a, #nav li a:visited, #nav li a:hover {color:#fff;}
+#nav li{margin-left:0;}
+#nav, #nav ul {padding:0;margin:0;padding-left:20px;list-style:none;z-index:10;}
+#nav a {display:block;width:11.5em;text-decoration:none;}
+#nav li {float:left;width:12em;margin-right:10px;}
+#nav li ul {position:absolute;width:11.5em;left:-999em;padding-left:0;margin:none;padding-top:25px;}
+#nav li ul li {background:url('http://ce.orghub.com/images/nav_bar.jpg');margin-top:none;width:11.5em;font-size:90%;}
+#nav li:hover ul {left:auto;}
+#nav li li a {padding: 6px 10px 7px;text-decoration:none;}
+.login {margin-top:1.2em;}
+.login a {color:#fff;}
+#div_id_slug, #div_id_honeypot {display:none;}
+h1 {padding-left:30px;font-size:33px;margin-bottom:0px;letter-spacing:-2px;font-style:italic;text-shadow: 2px 2px 2px #fff;color:rgb(90,90,90);}
+.center {text-align:center;}
+.left {text-align:left;}
+.right {text-align;right;}
+.justify {text-align:justify;}
+#user-menu-tip {z-index:99999;}

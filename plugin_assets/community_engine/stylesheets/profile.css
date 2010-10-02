@@ -1,0 +1,43 @@
+h2#page_title {padding-left:30px;font-size:33px;margin-bottom:0px;letter-spacing:-2px;font-style:italic;text-shadow: 2px 2px 2px #fff;color:rgb(90,90,90);}
+/* structure */
+#sub_nav {display: block; height: 89px; background: url('http://orghub.com/media/images/pages/sub_nav.png') top center no-repeat;}
+#main_middle {display: block;background: url('http://orghub.com/media/images/pages/main_middle.png') top center repeat-y;}
+#main_bottom {display: block; height: 18px; background: url('http://orghub.com/media/images/pages/main_bottom.png') top center no-repeat;}
+/* sidebar */
+#page_sidebar {position:relative;}
+#page_padding {padding-left:15px;}
+#page_pic_cont {position:relative;display:block;height:225px}
+#page_pic_cont img {display: block; width: 179px; height: 178px;position:absolute;left:19px;top:30px;margin-bottom:40px;}
+#page_info {padding: 0 0 17px 15px;}
+#page_info h3 {margin-bottom:7px;font: normal 1.3em Arial, sans-serif;background:#fff;padding-left:3px;}
+#page_info h4 {margin-bottom:0px;font-size:1.3em;background:#fff;padding-left:3px;}
+#page_info p {margin-bottom:6px;font-size:0.9em;border-bottom: 1px solid rgb(230,230,230);padding-bottom:3px;background:#fff;padding-left:3px;}
+#friends_cont {background:#fff;border-bottom:1px solid rgb(230,230,230);display:block;padding-bottom:3px;}
+#friends_cont span {height:51px;width:50px;float:left;display:block;position:relative;margin:0 0 2px 0;}
+#friends_cont img {height:50px;width:49px;position:absolute;left:0;top:0;}
+/* profile main body */
+#page_body_padding {padding:30px;}
+.page_comments {display: block; width:95%;padding:10px 10px 0px 10px; border-bottom:1px solid rgb(230,230,230);}
+.page_comments.odd {background:rgb(250,250,250);}
+.page_comments h3 {padding:0px 0 0 10px; margin-left:80px;margin-bottom:0px;font-size:1.1em;font-style:italic;}
+.page_comments p {padding:0px 0 0 10px; margin-left:80px;min-height:50px;}
+.page_comments img {float:left; display:block;width: 80px;height:79px;}
+.page_comments img.page_border {position:absolute;left:40px;}
+/* subnav */
+#sub_nav ul {display:block;padding-top:4px;}
+#sub_nav ul li {width:98px; height:81px;display:block;float:left;text-align:center;}
+#sub_nav ul li:hover {background: url('http://orghub.com/media/images/pages/icon_current.png') no-repeat 0 5px;}
+#sub_nav ul li a {width:97px; text-decoration:none; color: black; height:23px;display:block;padding-top:61px;text-transform:uppercase;font-size:12px;font-weight:bold;background-position: 5px 10px;}
+li.current {background: url('http://orghub.com/media/images/pages/icon_current.png') no-repeat 0 5px;}
+.profiles {background: url('http://orghub.com/media/images/pages/icon_profile.png') top center no-repeat;}
+.media {background: url('http://orghub.com/media/images/pages/icon_media.png') top center no-repeat;}
+.calendar {background: url('http://orghub.com/media/images/pages/icon_calendar.png') top center no-repeat;}
+.blog {background: url('http://orghub.com/media/images/pages/icon_blog.png') top center no-repeat;}
+.photos {background: url('http://orghub.com/media/images/pages/icon_photos.png') top center no-repeat;}
+.projects {background: url('http://orghub.com/media/images/pages/icon_projects.png') top center no-repeat;}
+.forum {background: url('http://orghub.com/media/images/pages/icon_forum.png') top center no-repeat;}
+.inbox {background: url('http://orghub.com/media/images/pages/icon_inbox.png') top center no-repeat;}
+#div_id_name,#div_id_honeypot,#div_id_email,#div_id_url,#div_id_comment label {display:none;}
+#div_id_comment textarea {padding:0.5em;height:20px;}
+#div_id_comment {display:inline;}
+form input[type=submit] {background:#ccc;color:#fff;padding:0.5em;}
